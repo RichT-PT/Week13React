@@ -1,0 +1,26 @@
+{
+  "name": "week-13-intro_to_react_webpack_components_and_jsx",
+  "version": "1.0.0",
+  "description": "• Using create-react-app, create a new React project. Create a LoginForm component that contains the following: ◦ Username and password input fields, an h3 that says Log In, with a border. Style the component using the default generated CSS file. • Create a Navigation component that contains links styled like a navbar. ◦ The links don’t have to go anywhere. • Put the Navigation component at the top of the page and the LoginForm in the center of the page.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RichT-PT/Week13React.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RichT-PT/Week13React/issues"
+  },
+  "homepage": "https://github.com/RichT-PT/Week13React#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "webpack": "^5.76.2",
+    "webpack-cli": "^5.0.1"
+  }
+}
